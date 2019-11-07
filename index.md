@@ -8,6 +8,8 @@ Interested in dark matter and dark energy phenomenology
 
 [Publications](https://rekeeley.github.io/publications.md)
 
+[CV](https://rekeeley.github.io/RyanKeeleyCV4.pdf)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/rekeeley/rekeeley.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.

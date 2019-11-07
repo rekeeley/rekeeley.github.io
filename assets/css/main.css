@@ -2913,7 +2913,7 @@ input, select, textarea {
 /* Header */
 
 	#header {
-		padding: 6em 0 6em 0 ;
+		padding: 2em 0 2em 0 ;
 		background-color: #000000;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;

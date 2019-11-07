@@ -2913,15 +2913,13 @@ input, select, textarea {
 /* Header */
 
 	#header {
-		padding: 9em 0 9em 0 ;
-		background-color: #4686a0;
+		padding: 6em 0 6em 0 ;
+		background-color: #000000;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
 		background-image: url("images/Fermi_5_year.jpg");/* Image Credit: NASA/DOE/Fermi LAT Collaboration*/
-		background-position: top left,						center center,					center center;
-		background-size: auto,							cover,							cover;
-		overflow: hidden;
-		position: relative;
+		background-position: center,						center center,					center center;
+		background-size: contain,							cover,							cover;
 		text-align: center;
 	}
 
